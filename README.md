@@ -30,3 +30,4 @@ Con estos pasos, deberías tener la solución funcionando correctamente.
 - .NET Framework 4.8
 - MS SQL Server
 - Visual Studio
+![DiagramaComponentesSamtel](https://github.com/user-attachments/assets/efe28ba1-b008-4ceb-a0b4-524bb265ef88)
