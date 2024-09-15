@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Puli Andrea\\source\\repos\\Samtel.WPF.CompanyUsers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51E24AF1-A87C-4FA8-A923-18B1076EB052}|Samtel.WPF.CompanyUsers\\Samtel.WPF.CompanyUsers.csproj|C:\\Users\\Puli Andrea\\source\\repos\\Samtel.WPF.CompanyUsers\\samtel.wpf.companyusers\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E24AF1-A87C-4FA8-A923-18B1076EB052}|Samtel.WPF.CompanyUsers\\Samtel.WPF.CompanyUsers.csproj|solutionrelative:samtel.wpf.companyusers\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E24AF1-A87C-4FA8-A923-18B1076EB052}|Samtel.WPF.CompanyUsers\\Samtel.WPF.CompanyUsers.csproj|C:\\Users\\Puli Andrea\\source\\repos\\Samtel.WPF.CompanyUsers\\samtel.wpf.companyusers\\dal\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E24AF1-A87C-4FA8-A923-18B1076EB052}|Samtel.WPF.CompanyUsers\\Samtel.WPF.CompanyUsers.csproj|solutionrelative:samtel.wpf.companyusers\\dal\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E24AF1-A87C-4FA8-A923-18B1076EB052}|Samtel.WPF.CompanyUsers\\Samtel.WPF.CompanyUsers.csproj|C:\\Users\\Puli Andrea\\source\\repos\\Samtel.WPF.CompanyUsers\\samtel.wpf.companyusers\\dal\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E24AF1-A87C-4FA8-A923-18B1076EB052}|Samtel.WPF.CompanyUsers\\Samtel.WPF.CompanyUsers.csproj|solutionrelative:samtel.wpf.companyusers\\dal\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E24AF1-A87C-4FA8-A923-18B1076EB052}|Samtel.WPF.CompanyUsers\\Samtel.WPF.CompanyUsers.csproj|c:\\users\\puli andrea\\source\\repos\\samtel.wpf.companyusers\\samtel.wpf.companyusers\\departmentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E24AF1-A87C-4FA8-A923-18B1076EB052}|Samtel.WPF.CompanyUsers\\Samtel.WPF.CompanyUsers.csproj|solutionrelative:samtel.wpf.companyusers\\departmentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E24AF1-A87C-4FA8-A923-18B1076EB052}|Samtel.WPF.CompanyUsers\\Samtel.WPF.CompanyUsers.csproj|C:\\Users\\Puli Andrea\\source\\repos\\Samtel.WPF.CompanyUsers\\samtel.wpf.companyusers\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{51E24AF1-A87C-4FA8-A923-18B1076EB052}|Samtel.WPF.CompanyUsers\\Samtel.WPF.CompanyUsers.csproj|solutionrelative:samtel.wpf.companyusers\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E24AF1-A87C-4FA8-A923-18B1076EB052}|Samtel.WPF.CompanyUsers\\Samtel.WPF.CompanyUsers.csproj|C:\\Users\\Puli Andrea\\source\\repos\\Samtel.WPF.CompanyUsers\\samtel.wpf.companyusers\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E24AF1-A87C-4FA8-A923-18B1076EB052}|Samtel.WPF.CompanyUsers\\Samtel.WPF.CompanyUsers.csproj|solutionrelative:samtel.wpf.companyusers\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E24AF1-A87C-4FA8-A923-18B1076EB052}|Samtel.WPF.CompanyUsers\\Samtel.WPF.CompanyUsers.csproj|C:\\Users\\Puli Andrea\\source\\repos\\Samtel.WPF.CompanyUsers\\samtel.wpf.companyusers\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{51E24AF1-A87C-4FA8-A923-18B1076EB052}|Samtel.WPF.CompanyUsers\\Samtel.WPF.CompanyUsers.csproj|solutionrelative:samtel.wpf.companyusers\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E24AF1-A87C-4FA8-A923-18B1076EB052}|Samtel.WPF.CompanyUsers\\Samtel.WPF.CompanyUsers.csproj|C:\\Users\\Puli Andrea\\source\\repos\\Samtel.WPF.CompanyUsers\\samtel.wpf.companyusers\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E24AF1-A87C-4FA8-A923-18B1076EB052}|Samtel.WPF.CompanyUsers\\Samtel.WPF.CompanyUsers.csproj|solutionrelative:samtel.wpf.companyusers\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Puli Andrea\\source\\repos\\Samtel.WPF.CompanyUsers\\Samtel.WPF.CompanyUsers\\DepartmentWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Samtel.WPF.CompanyUsers\\DepartmentWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Puli Andrea\\source\\repos\\Samtel.WPF.CompanyUsers\\Samtel.WPF.CompanyUsers\\DepartmentWindow.xaml.cs",
+              "RelativeToolTip": "Samtel.WPF.CompanyUsers\\DepartmentWindow.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T20:07:31.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Puli Andrea\\source\\repos\\Samtel.WPF.CompanyUsers\\Samtel.WPF.CompanyUsers\\DAL\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "Samtel.WPF.CompanyUsers\\DAL\\DepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\Puli Andrea\\source\\repos\\Samtel.WPF.CompanyUsers\\Samtel.WPF.CompanyUsers\\DAL\\DepartmentRepository.cs",
+              "RelativeToolTip": "Samtel.WPF.CompanyUsers\\DAL\\DepartmentRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T19:39:35.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Puli Andrea\\source\\repos\\Samtel.WPF.CompanyUsers\\Samtel.WPF.CompanyUsers\\DAL\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Samtel.WPF.CompanyUsers\\DAL\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Puli Andrea\\source\\repos\\Samtel.WPF.CompanyUsers\\Samtel.WPF.CompanyUsers\\DAL\\UserRepository.cs",
+              "RelativeToolTip": "Samtel.WPF.CompanyUsers\\DAL\\UserRepository.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAwwEIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T18:51:43.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Puli Andrea\\source\\repos\\Samtel.WPF.CompanyUsers\\Samtel.WPF.CompanyUsers\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Samtel.WPF.CompanyUsers\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Puli Andrea\\source\\repos\\Samtel.WPF.CompanyUsers\\Samtel.WPF.CompanyUsers\\Models\\Department.cs",
+              "RelativeToolTip": "Samtel.WPF.CompanyUsers\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T18:50:32.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Puli Andrea\\source\\repos\\Samtel.WPF.CompanyUsers\\Samtel.WPF.CompanyUsers\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Samtel.WPF.CompanyUsers\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Puli Andrea\\source\\repos\\Samtel.WPF.CompanyUsers\\Samtel.WPF.CompanyUsers\\Models\\User.cs",
+              "RelativeToolTip": "Samtel.WPF.CompanyUsers\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T18:49:08.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Puli Andrea\\source\\repos\\Samtel.WPF.CompanyUsers\\Samtel.WPF.CompanyUsers\\App.config",
+              "RelativeDocumentMoniker": "Samtel.WPF.CompanyUsers\\App.config",
+              "ToolTip": "C:\\Users\\Puli Andrea\\source\\repos\\Samtel.WPF.CompanyUsers\\Samtel.WPF.CompanyUsers\\App.config",
+              "RelativeToolTip": "Samtel.WPF.CompanyUsers\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-14T18:45:23.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Puli Andrea\\source\\repos\\Samtel.WPF.CompanyUsers\\Samtel.WPF.CompanyUsers\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Samtel.WPF.CompanyUsers\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Puli Andrea\\source\\repos\\Samtel.WPF.CompanyUsers\\Samtel.WPF.CompanyUsers\\MainWindow.xaml",
+              "RelativeToolTip": "Samtel.WPF.CompanyUsers\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-14T18:43:50.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Puli Andrea\\source\\repos\\Samtel.WPF.CompanyUsers\\Samtel.WPF.CompanyUsers\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Samtel.WPF.CompanyUsers\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Puli Andrea\\source\\repos\\Samtel.WPF.CompanyUsers\\Samtel.WPF.CompanyUsers\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Samtel.WPF.CompanyUsers\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T18:43:48.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

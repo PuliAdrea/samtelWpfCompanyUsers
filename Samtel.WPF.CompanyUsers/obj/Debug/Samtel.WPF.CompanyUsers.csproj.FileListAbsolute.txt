@@ -1,0 +1,16 @@
+C:\Users\Puli Andrea\source\repos\Samtel.WPF.CompanyUsers\Samtel.WPF.CompanyUsers\obj\Debug\Samtel.WPF.CompanyUsers.csproj.AssemblyReference.cache
+C:\Users\Puli Andrea\source\repos\Samtel.WPF.CompanyUsers\Samtel.WPF.CompanyUsers\obj\Debug\App.g.cs
+C:\Users\Puli Andrea\source\repos\Samtel.WPF.CompanyUsers\Samtel.WPF.CompanyUsers\obj\Debug\Samtel.WPF.CompanyUsers_MarkupCompile.cache
+C:\Users\Puli Andrea\source\repos\Samtel.WPF.CompanyUsers\Samtel.WPF.CompanyUsers\obj\Debug\DepartmentWindow.baml
+C:\Users\Puli Andrea\source\repos\Samtel.WPF.CompanyUsers\Samtel.WPF.CompanyUsers\obj\Debug\DepartmentWindow.g.cs
+C:\Users\Puli Andrea\source\repos\Samtel.WPF.CompanyUsers\Samtel.WPF.CompanyUsers\obj\Debug\MainWindow.g.cs
+C:\Users\Puli Andrea\source\repos\Samtel.WPF.CompanyUsers\Samtel.WPF.CompanyUsers\bin\Debug\Samtel.WPF.CompanyUsers.exe.config
+C:\Users\Puli Andrea\source\repos\Samtel.WPF.CompanyUsers\Samtel.WPF.CompanyUsers\bin\Debug\Samtel.WPF.CompanyUsers.exe
+C:\Users\Puli Andrea\source\repos\Samtel.WPF.CompanyUsers\Samtel.WPF.CompanyUsers\bin\Debug\Samtel.WPF.CompanyUsers.pdb
+C:\Users\Puli Andrea\source\repos\Samtel.WPF.CompanyUsers\Samtel.WPF.CompanyUsers\obj\Debug\MainWindow.baml
+C:\Users\Puli Andrea\source\repos\Samtel.WPF.CompanyUsers\Samtel.WPF.CompanyUsers\obj\Debug\Samtel.WPF.CompanyUsers.g.resources
+C:\Users\Puli Andrea\source\repos\Samtel.WPF.CompanyUsers\Samtel.WPF.CompanyUsers\obj\Debug\Samtel.WPF.CompanyUsers.Properties.Resources.resources
+C:\Users\Puli Andrea\source\repos\Samtel.WPF.CompanyUsers\Samtel.WPF.CompanyUsers\obj\Debug\Samtel.WPF.CompanyUsers.csproj.GenerateResource.cache
+C:\Users\Puli Andrea\source\repos\Samtel.WPF.CompanyUsers\Samtel.WPF.CompanyUsers\obj\Debug\Samtel.WPF.CompanyUsers.csproj.CoreCompileInputs.cache
+C:\Users\Puli Andrea\source\repos\Samtel.WPF.CompanyUsers\Samtel.WPF.CompanyUsers\obj\Debug\Samtel.WPF.CompanyUsers.exe
+C:\Users\Puli Andrea\source\repos\Samtel.WPF.CompanyUsers\Samtel.WPF.CompanyUsers\obj\Debug\Samtel.WPF.CompanyUsers.pdb
