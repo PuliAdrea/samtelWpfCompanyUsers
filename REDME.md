@@ -30,7 +30,3 @@ Con estos pasos, deberías tener la solución funcionando correctamente.
 - .NET Framework 4.8
 - MS SQL Server
 - Visual Studio
-
-## Contacto
-
-Para cualquier duda o consulta, puedes contactar a [tu nombre o contacto aquí].
