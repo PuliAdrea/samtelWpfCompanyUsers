@@ -1,5 +1,9 @@
 # Samtel.WPF.CompanyUsers
 
+![.NET Framework 4.8](https://img.shields.io/badge/.NET_Framework-4.8-blue)
+![WPF](https://img.shields.io/badge/WPF-.NET_Framework-orange)
+![MS SQL](https://img.shields.io/badge/Database-MS_SQL_Server-brightgreen)
+
 ## Descripción
 
 Samtel.WPF.CompanyUsers es una prueba técnica para Samtel que demuestra la creación de una aplicación utilizando .NET Framework 4.8, MS SQL y WPF. 
@@ -30,4 +34,9 @@ Con estos pasos, deberías tener la solución funcionando correctamente.
 - .NET Framework 4.8
 - MS SQL Server
 - Visual Studio
+
+  ## Diagrama de componentes
+  
 ![DiagramaComponentesSamtel](https://github.com/user-attachments/assets/efe28ba1-b008-4ceb-a0b4-524bb265ef88)
+
+Tambien puede ver el diagrama de componentes en el siguiente [link](https://drive.google.com/file/d/15L4PN1BPteTSeO85pv7bPshHom08B1NZ/view?usp=drive_link)
